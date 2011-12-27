@@ -6,7 +6,7 @@
     </head>
     <body>
         <?php
-        // put your code here
+        // test app by Blazevic
         ?>
     </body>
 </html>
