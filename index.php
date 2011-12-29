@@ -6,7 +6,7 @@
     </head>
     <body>
         <?php
-        // test app by Blazevic
+            echo "test app by Sinisa";
         ?>
     </body>
 </html>
