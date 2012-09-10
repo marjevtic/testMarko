@@ -1,0 +1,15 @@
+
+def add_properties(xml):
+    xml.add_property("custom_size", "Custom Size", "text_list")
+    xml.add_property("review", "Review", "text_list")
+    xml.add_property("sizes_chart_image_url", "Sizes Chart Image Url", "text")
+    xml.add_property("color_image_url", "Color Image URL", "text_list")
+    xml.add_property("in_stock", "In Stock", "text")
+    xml.add_property("custom_rating", "Custom Rating", "text")
+    xml.add_property("default_image_url", "Default Image Url", "text_list")
+    xml.add_property("old_price", "Old Price", "text")
+    xml.add_property("color_short", "Color Short", "text")
+    xml.add_property("size_short", "Size Short", "text")
+    xml.add_property("price_url", "Price URL", "text")
+    xml.add_property("custom_size", "Custom Size", "text_list")
+    xml.add_property("embroidery", "Embroidery", "boolean")

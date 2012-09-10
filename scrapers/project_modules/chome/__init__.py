@@ -1,0 +1,22 @@
+from scrapy.item import Item, Field
+
+class ChomeItem(Item):
+    product_id =Field()
+    name = Field()
+    normal_image_url = Field()
+    description = Field()
+    master_product_id = Field()
+    add_to_cart_id = Field()
+    price = Field()
+    color_id =Field()
+    in_stock = Field()
+    image_urls = Field()
+    images = Field()
+    description_english = Field()
+    description_spanish = Field()
+    add_to_cart_id = Field()
+    max_qty = Field()
+    time_type = Field()
+    name_english = Field()
+    name_spanish = Field()
+    custom_price = Field()

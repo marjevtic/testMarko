@@ -1,0 +1,12 @@
+Ran: 2012-08-21 15:22:50.264277
+
+Scraped 30 product out of 30
+
+
+Ran from interface.
+Scraper report:
+
+Scraping finished, scraped 30 products, 0 not provided, 0 not available, 0 internal errors on client page, and 0 unhandled errors.
+
+Export to database successful
+Sending mail failed.
